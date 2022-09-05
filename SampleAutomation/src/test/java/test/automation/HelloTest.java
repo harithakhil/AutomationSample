@@ -8,6 +8,7 @@ public class HelloTest {
 	public void testMethod() {
 		System.out.println("Hello am in hello test method");
 		System.out.println("Hello World");
+		System.out.println("Welcome Obscura ");
 	}
 
 }
